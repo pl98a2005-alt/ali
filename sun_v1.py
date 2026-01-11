@@ -7,7 +7,7 @@ import subprocess
 # --- [ إعدادات السيادة الكاملة ] ---
 CONFIG = {
     "token": "7345737265:AAGPiful1uqzGhERQOwq9ExWhl9qF6VYHv4",
-    "api_key": "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",
+    "api_key": "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",
     "owner_id": 7344005519,
     "version": "8.5",
     "identity": "Singularity"
